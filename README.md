@@ -1,2 +1,2 @@
 # S10-Project
-project
+This is a web application based project for buying and selling of dairy products.
